@@ -1,8 +1,4 @@
 ﻿using Newtonsoft.Json;
-using System.IO;
-using System.Text.Json;
-using System.Text.Json.Nodes;
-using System.Text.Json.Serialization;
 
 class Program
 {
@@ -80,6 +76,6 @@ class Program
         return units
             .ToList()
             .Select(x => x.MaxVolume)
-            .Sum(); ;
+            .Sum();
     }
 }

@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32825.248
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NETLearn", "NETLearn\NETLearn.csproj", "{3318F75A-594E-4AD5-A6DD-8B157A4D9E2B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson_0", "NETLearn\Lesson_0.csproj", "{3318F75A-594E-4AD5-A6DD-8B157A4D9E2B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson_1.1", "Lesson_1.1\Lesson_1.1.csproj", "{ED3EB86C-9D23-40C2-8AE0-9800C4736050}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{3318F75A-594E-4AD5-A6DD-8B157A4D9E2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3318F75A-594E-4AD5-A6DD-8B157A4D9E2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3318F75A-594E-4AD5-A6DD-8B157A4D9E2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED3EB86C-9D23-40C2-8AE0-9800C4736050}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED3EB86C-9D23-40C2-8AE0-9800C4736050}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED3EB86C-9D23-40C2-8AE0-9800C4736050}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED3EB86C-9D23-40C2-8AE0-9800C4736050}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
